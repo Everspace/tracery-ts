@@ -22,6 +22,9 @@
     { "rule": "*semi", "severity": "off" }
   ],
 
+  "eslint.useFlatConfig": true,
+  "eslint.format.enable": true,
+
   // Enable eslint for all supported languages
   "eslint.validate": [
     "javascript",
