@@ -6,13 +6,13 @@
   "description": "_description_",
   "author": "Everspace <aabonh+packagejson@gmail.com>",
   "license": "Apache-2.0",
-  "funding": "https://github.com/sponsors/everspace",
-  "homepage": "https://github.com/everspace/tracery-ts#readme",
+  "funding": "https://github.com/sponsors/Everspace",
+  "homepage": "https://github.com/Everspace/tracery-ts#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/everspace/tracery-ts.git"
+    "url": "https://github.com/Everspace/tracery-ts"
   },
-  "bugs": "https://github.com/everspace/tracery-ts/issues",
+  "bugs": "https://github.com/Everspace/tracery-ts/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
